@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0136-single-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1480-running-sum-of-1d-array) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
