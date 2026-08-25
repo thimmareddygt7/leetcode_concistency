@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
