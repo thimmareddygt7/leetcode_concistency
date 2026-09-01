@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0504-base-7) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -73,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
