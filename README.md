@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -119,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
