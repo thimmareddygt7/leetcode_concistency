@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0504-base-7) |
