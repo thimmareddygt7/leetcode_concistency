@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
