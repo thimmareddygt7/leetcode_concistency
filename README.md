@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
