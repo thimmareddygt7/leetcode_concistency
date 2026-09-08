@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0504-base-7) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -186,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
