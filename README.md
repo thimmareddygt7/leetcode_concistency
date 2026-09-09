@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2073-time-needed-to-buy-tickets) |
 | [2460-apply-operations-to-an-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2460-apply-operations-to-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2073-time-needed-to-buy-tickets) |
 | [2460-apply-operations-to-an-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2460-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
