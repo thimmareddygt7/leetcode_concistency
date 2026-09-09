@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
