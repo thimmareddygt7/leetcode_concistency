@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
