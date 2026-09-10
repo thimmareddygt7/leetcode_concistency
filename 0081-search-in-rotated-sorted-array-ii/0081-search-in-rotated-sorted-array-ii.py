@@ -1,0 +1,7 @@
+class Solution:
+    def search(self, nums: List[int], target: int) -> bool:
+        
+        if target in nums:
+            return True
+        if target not in nums: 
+            return False
