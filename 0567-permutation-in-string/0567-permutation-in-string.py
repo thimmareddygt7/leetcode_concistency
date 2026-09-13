@@ -21,5 +21,4 @@ class Solution:
 
             if s1_char_freq_arr == s2_window_char_freq_arr:
                 return True
-
         return False
