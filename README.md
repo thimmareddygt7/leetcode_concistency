@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0567-permutation-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1208-get-equal-substrings-within-budget) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
