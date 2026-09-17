@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0504-base-7) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/2073-time-needed-to-buy-tickets) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
