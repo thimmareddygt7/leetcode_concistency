@@ -6,6 +6,8 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
+        '''
+        0(n)
         temp = head 
         seen = set()
         while temp!= None :
@@ -13,4 +15,12 @@ class Solution:
                 return True
             seen.add(temp)
             temp = temp.next
-        return False
+        return False'''
+        slow,fast = head,head
+        while fast  and fast.next :
+            slow =slow.next
+            fast=fast.next.next
+
+            if slow == fast:
+                return True
+        
