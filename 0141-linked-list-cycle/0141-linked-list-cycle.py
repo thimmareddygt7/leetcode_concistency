@@ -16,12 +16,21 @@ class Solution:
             seen.add(temp)
             temp = temp.next
         return False'''
-        slow,fast = head,head
-        while fast  and fast.next :
-            fast=fast.next.next
+        '''slow = head 
+        fast = head 
+        while fast !=None and fast.next != None:
             slow =slow.next
-            
+            fast=fast.next.next
+
+            if slow == fast:
+                return True
+        return False '''
+        slow, fast = head, head
+        
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
 
             if fast == slow:
                 return True
-        
+
