@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0013-roman-to-integer) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0206-reverse-linked-list) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
