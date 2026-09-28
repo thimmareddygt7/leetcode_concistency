@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/1208-get-equal-substrings-within-budget) |
 ## Math
