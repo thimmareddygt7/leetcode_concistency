@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0118-pascals-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thimmareddygt7/leetcode_concistency/tree/master/0142-linked-list-cycle-ii) |
