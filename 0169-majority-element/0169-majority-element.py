@@ -1,9 +1,5 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+class Solution:
+    def majorityElement(self, nums: list[int]) -> int:
         nums.sort()
         res = len(nums)//2
-        return nums[res ]
+        return nums[res]
